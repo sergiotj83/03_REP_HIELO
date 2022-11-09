@@ -30,6 +30,7 @@
 	ol, ul {
 		list-style: none;
 	}
+#one, #two, #three {display:none}
 
 	blockquote, q {
 		quotes: none;
